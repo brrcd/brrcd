@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Max
-- 🌱 I’m currently learning Java/Kotlin/Python
+- 🌱 I’m currently learning Android, Kotlin
