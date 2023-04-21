@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Max
-- 🌱 I’m currently learning Android, Kotlin
+- 🌱 Android developer
 - Telegram @mawxim
 - [![wakatime](https://wakatime.com/badge/user/632ea5df-e29b-4254-a5e6-7f7c69b7c506.svg)](https://wakatime.com/@632ea5df-e29b-4254-a5e6-7f7c69b7c506)
