@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Max
-- 🌱 Android developer
+- Hi, I’m Max
+- Android developer
 - Telegram @mawxim
